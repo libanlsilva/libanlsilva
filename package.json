@@ -1,0 +1,13 @@
+{
+  "name": "libanlsilva-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate.mjs",
+    "refresh": "node scripts/generate.mjs --refresh",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

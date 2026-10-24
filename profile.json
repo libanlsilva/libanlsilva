@@ -1,0 +1,22 @@
+{
+  "username": "libanlsilva",
+  "name": "Liban Velazquez Silva",
+  "role": "Full-stack & mobile developer",
+  "bio": {
+    "es": "Construyo aplicaciones web y móviles, herramientas para desarrolladores e integraciones que conectan servicios con productos reales.",
+    "en": "I build web and mobile applications, developer tools, and integrations that connect services with real products."
+  },
+  "stack": [
+    {"label":"Servicios y herramientas","en":"Services & tooling","items":["Python","C#",".NET"],"color":"#ad9bff"},
+    {"label":"Interfaces web","en":"Web interfaces","items":["TypeScript","React"],"color":"#67d9ed"},
+    {"label":"Aplicaciones móviles","en":"Mobile applications","items":["Flutter","Dart",".NET MAUI","Android"],"color":"#efc477"}
+  ],
+  "projects": [
+    {"name":"Apklis · .NET MAUI","repo":"maui-apklis-license","tags":"C# / .NET MAUI / Android","description":"Validación y compra de licencias de Apklis con Transfermóvil, desde aplicaciones .NET MAUI.","en":"Apklis license validation and purchases with Transfermóvil for .NET MAUI applications.","color":"#ad9bff"},
+    {"name":"Apklis · Flutter","repo":"apklis_license_validator","tags":"Flutter / Dart / Kotlin","description":"Plugin de Flutter para consultar licencias y gestionar pagos de Apklis con integración nativa de Android.","en":"A Flutter plugin for Apklis license checks and payments, with native Android integration.","color":"#67d9ed"}
+  ],
+  "collaboration": {
+    "es":"También trabajo con Python, TypeScript y React en Sovara, y contribuyo al ecosistema .NET y al comercio electrónico.",
+    "en":"I also work with Python, TypeScript, and React on Sovara, and contribute to the .NET and e-commerce ecosystem."
+  }
+}
