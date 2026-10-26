@@ -23,6 +23,6 @@ I also work with Python, TypeScript, and React on Sovara, and contribute to the 
 <picture><source media="(max-width: 600px)" srcset="assets/stats-en-mobile.svg"><img src="assets/stats-en.svg" alt="Contribution statistics" width="900"></picture>
 <img src="assets/activity-en.svg" alt="Animated contribution calendar" width="900">
 
-<sub>Snapshot captured: 2026-10-24. Personal XP = contributions + 3 × active days.</sub>
+<sub>Snapshot captured: 2026-10-26. Personal XP = contributions + 3 × active days.</sub>
 
 [Explore my repositories](https://github.com/libanlsilva?tab=repositories)
