@@ -23,6 +23,6 @@ También trabajo con Python, TypeScript y React en Sovara, y contribuyo al ecosi
 <picture><source media="(max-width: 600px)" srcset="assets/stats-mobile.svg"><img src="assets/stats.svg" alt="Estadísticas de contribuciones" width="900"></picture>
 <img src="assets/activity.svg" alt="Calendario animado de contribuciones" width="900">
 
-<sub>Instantánea capturada: 2026-10-26. XP personal = contribuciones + 3 × días activos.</sub>
+<sub>Instantánea capturada: 2026-10-27. XP personal = contribuciones + 3 × días activos.</sub>
 
 [Explora mis repositorios](https://github.com/libanlsilva?tab=repositories)
