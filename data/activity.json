@@ -1,6 +1,6 @@
 {
   "start": "2025-11-16",
-  "end": "2026-11-20",
+  "end": "2026-11-21",
   "counts": [
     7,
     0,
@@ -371,10 +371,11 @@
     15,
     3,
     0,
+    0,
     0
   ],
   "total": 1020,
-  "capturedAt": "2026-11-20",
+  "capturedAt": "2026-11-21",
   "source": "https://github.com/libanlsilva",
   "mode": "snapshot"
 }
